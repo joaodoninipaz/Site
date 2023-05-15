@@ -202,3 +202,53 @@ line-height: 130%;
 
 color: #000000;
 }
+
+footer {
+  position: absolute;
+width: 10000px;
+height: 196px;
+top: 1000px;
+
+background: #D9D9D9;
+}
+
+.informaçõescolégio {
+  position: absolute;
+width: 10000px;
+height: 42px;
+left: 150px;
+top: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 35px;
+line-height: 40px;
+
+color: #FFFFFF;
+}
+
+.face {
+  position: absolute;
+width: 100px;
+height: 100px;
+top: 70px;
+left: 900px;
+}
+
+.insta{
+  position: absolute;
+width: 100px;
+height: 100px;
+left: 550px;
+top: 70px;
+}
+
+.twitter {
+  position: absolute;
+width: 100px;
+height: 100px;
+left: 1250px;
+top: 70px;
+
+}
